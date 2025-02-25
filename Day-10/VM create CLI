@@ -1,0 +1,6 @@
+Repo create at first
+az version
+az login
+az resource group
+az vm
+delete resource group
